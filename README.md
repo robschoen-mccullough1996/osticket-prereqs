@@ -13,7 +13,7 @@ This tutorial will provide the steps to creating and managing users for Active D
 
 <h2>Programming Languages Used</h2>
 
-- Powershell
+- PowerShell
   
 <h2>Operating Systems Used </h2>
 
