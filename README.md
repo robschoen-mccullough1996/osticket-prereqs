@@ -2,7 +2,7 @@
 <img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/921dd3db-d2b0-4352-aebf-35610643bb4b" />
 
 
-<h1>Active Directory - Creating Users In PowerShell</h1>
+<h1>Active Directory - Creating Users Through PowerShell</h1>
 This tutorial will provide the steps to creating and managing users for Active Directory using PowerShell.<br />
 
 <h2>Environments and Technologies Used</h2>
@@ -18,13 +18,13 @@ This tutorial will provide the steps to creating and managing users for Active D
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
+- Install Active Directory Domain Services
+- Set up Active Directory forest (ex. rsmdomain.com) and log
 - Item 3
 - Item 4
 - Item 5
 
-<h2>Installation Steps</h2>
+<h2>User Creation Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
