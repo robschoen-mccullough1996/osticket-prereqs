@@ -1,5 +1,7 @@
 <p align="center">
-<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/921dd3db-d2b0-4352-aebf-35610643bb4b" />
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/11eabd94-54df-4aad-afb7-1478fb2059fd" />
+/>
+ />
 
 
 <h1>Active Directory - Creating Users Through PowerShell</h1>
