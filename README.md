@@ -15,7 +15,7 @@ This tutorial will provide the steps to setting up a general infrastrurcture for
 
 - Windows 10 Enterprise</b> (22H2)
 
-<h2>Setting Up AD Infrastructure</h2>
+<h2>Setting Up AD Infrastructure on Microsoft Azure</h2>
 
 - Install Active Directory Domain Services
 - Set up Active Directory forest (ex. rsmdomain.com) and log
@@ -23,7 +23,7 @@ This tutorial will provide the steps to setting up a general infrastrurcture for
 - Item 4
 - Item 5
 
-<h2>AD Infrastructure Steps</h2>
+<h2>AD Infrastructure Setup Steps</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
